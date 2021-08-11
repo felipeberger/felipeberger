@@ -15,7 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40">
   <h3>Back-end ・ Server-side</h3>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" style="max-width:100%;" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" style="max-width:100%;" width="40" height="40">
 </div>
   
 <hr>
@@ -53,7 +54,7 @@
 
 <hr>
 <div>
-  <h3>My project websites</h3>
+  <h3>My Project Websites</h3>
   <div><a href="https://bnbcloned.herokuapp.com/">AirBnB Clone</a></div>
   <div><a href="https://twitts-and-clones.herokuapp.com/">Twitter Clone</a></div>
   <div><a href="https://currency-xchange.herokuapp.com/">Curency Converter</a></div>
