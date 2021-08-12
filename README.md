@@ -30,7 +30,7 @@
     <li>
       <p>
       <img class="emoji" alt="seedling" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" width="20" height="20"> 
-        I’m currently learning about <strong>client side architecture for React (MVP architecture)</strong>
+        I’m currently learning about <a href="https://khalilstemmler.com/articles/client-side-architecture/architecture/">client side architecture for React (MVP architecture)</a>
       </p>
     </li>
     <li>
@@ -40,17 +40,16 @@
     </li>
     <li>
       <p>
-        🤔 I’m looking for help with <strong>creating and implementing PWAs</strong>
+        :books: I’m currently reading <a href="https://eloquentjavascript.net/">Eloquent Javascript</a>
       </p>
     </li>
     <li>
       <p>
-       💬 I'm interested in talking about <strong>the future of web browsers as the replacement for OS</strong>
+       💬 I'm interested in talking about <a href="https://www.protocol.com/browser-company">the future of web browsers</a>
       </p>
     </li>
   </ul>
 </div>
-
 
 <hr>
 <div>
