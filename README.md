@@ -54,10 +54,10 @@
 <hr>
 <div>
   <h3>My Project Websites</h3>
-  <div><a href="https://bnbcloned.herokuapp.com/">AirBnB Clone</a></div>
-  <div><a href="https://twitts-and-clones.herokuapp.com/">Twitter Clone</a></div>
-  <div><a href="https://currency-xchange.herokuapp.com/">Curency Converter</a></div>
-  <div><a href="https://full-stack-todo-listicle.herokuapp.com/">To-Do List</a></div>
+  <div><a href="https://bnbcloned.herokuapp.com/" target="_blank">AirBnB Clone</a></div>
+  <div><a href="https://twitts-and-clones.herokuapp.com/" target="_blank">Twitter Clone</a></div>
+  <div><a href="https://currency-xchange.herokuapp.com/" target="_blank">Curency Converter</a></div>
+  <div><a href="https://full-stack-todo-listicle.herokuapp.com/" target="_blank">To-Do List</a></div>
 </div>
 <!--
 **felipeberger/felipeberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
