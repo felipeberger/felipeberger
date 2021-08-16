@@ -24,13 +24,13 @@
   <ul>
     <li>
       <p>
-      👨🏻‍💻 I’m currently working on <a href="https://bnbcloned.herokuapp.com/"> Cloning AirBnB </a>
+      👨🏻‍💻 I’m currently working on <a href="https://bnbcloned.herokuapp.com/" target="_blank" rel="noreferrer noopener"> Cloning AirBnB </a>
       </p>
     </li>
     <li>
       <p>
       <img class="emoji" alt="seedling" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" width="20" height="20"> 
-        I’m currently learning about <a href="https://khalilstemmler.com/articles/client-side-architecture/architecture/">client side architecture for React (MVP architecture)</a>
+        I’m currently learning about <a href="https://khalilstemmler.com/articles/client-side-architecture/architecture/" target="_blank" rel="noreferrer noopener">client side architecture for React (MVP architecture)</a>
       </p>
     </li>
     <li>
@@ -40,12 +40,12 @@
     </li>
     <li>
       <p>
-        :books: I’m currently reading <a href="https://eloquentjavascript.net/">Eloquent Javascript</a>
+        :books: I’m currently reading <a href="https://eloquentjavascript.net/" target="_blank" rel="noreferrer noopener">Eloquent Javascript</a>
       </p>
     </li>
     <li>
       <p>
-       💬 I'm interested in talking about <a href="https://www.protocol.com/browser-company">the future of web browsers</a>
+       💬 I'm interested in talking about <a href="https://www.protocol.com/browser-company" target="_blank" rel="noreferrer noopener">the future of web browsers</a>
       </p>
     </li>
   </ul>
@@ -54,10 +54,10 @@
 <hr>
 <div>
   <h3>My Project Websites</h3>
-  <div><a href="https://bnbcloned.herokuapp.com/" target="_blank">AirBnB Clone</a></div>
-  <div><a href="https://twitts-and-clones.herokuapp.com/" target="_blank">Twitter Clone</a></div>
-  <div><a href="https://currency-xchange.herokuapp.com/" target="_blank">Curency Converter</a></div>
-  <div><a href="https://full-stack-todo-listicle.herokuapp.com/" target="_blank">To-Do List</a></div>
+  <div><a href="https://bnbcloned.herokuapp.com/" target="_blank" rel="noreferrer noopener">AirBnB Clone</a></div>
+  <div><a href="https://twitts-and-clones.herokuapp.com/" target="_blank" rel="noreferrer noopener">Twitter Clone</a></div>
+  <div><a href="https://currency-xchange.herokuapp.com/" target="_blank" rel="noreferrer noopener">Curency Converter</a></div>
+  <div><a href="https://full-stack-todo-listicle.herokuapp.com/" target="_blank" rel="noreferrer noopener">To-Do List</a></div>
 </div>
 <!--
 **felipeberger/felipeberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
