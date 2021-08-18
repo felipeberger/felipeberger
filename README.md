@@ -8,7 +8,7 @@
 <h3 align="center">Ex-consultant, full-stack developer, passionate about using technology to solve social problems</h3>
 <hr>
 <div>
-  <h2>My Stack</h2>
+  <h3>My Stack</h3>
   <h3>Front-end ・ UI</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width:100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width:100%;" width="40" height="40">
