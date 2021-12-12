@@ -40,7 +40,7 @@
     </li>
     <li>
       <p>
-        :books: I’m currently reading <a href="https://eloquentjavascript.net/" target="_blank" rel="noreferrer noopener">Eloquent Javascript</a>
+        :books: I’m currently reading <a href="https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf" target="_blank" rel="noreferrer noopener">Clean Code: A Handbook of Agile Software Craftsmanship</a>
       </p>
     </li>
     <li>
