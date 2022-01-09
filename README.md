@@ -9,7 +9,7 @@
 <hr>
 <div>
   <h2>My Stack</h2>
-  <h3>Front-end ・ UI</h3>
+  <h3>Front-end ・ Client Side</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width:100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width:100%;" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40">
@@ -24,7 +24,7 @@
   <ul>
     <li>
       <p>
-      👨🏻‍💻 I’m currently working on <a href="https://bnbcloned.herokuapp.com/" target="_blank" rel="noreferrer noopener"> Cloning AirBnB </a>
+      👨🏻‍💻 I’m currently working on <a href="https://pyramid-application.herokuapp.com/" target="_blank" rel="noreferrer noopener"> building a tool that helps consultants and researchers structure their findings and insights</a>
       </p>
     </li>
     <li>
