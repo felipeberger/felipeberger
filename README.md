@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-<h3 align="center">Ex-consultant, full-stack developer, passionate about using technology to solve social problems</h3>
+<h3 align="center">Full-stack developer,ex-consultant, passionate about using technology to solve social problems</h3>
 <hr>
 <div>
   <h2>My Stack</h2>
