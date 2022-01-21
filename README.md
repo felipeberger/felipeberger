@@ -54,6 +54,7 @@
 <hr>
 <div>
   <h3>My Project Websites</h3>
+  <div><a href="https://pyramid-application.herokuapp.com/" target="_blank" rel="noreferrer noopener">Pyramid App</a></div>
   <div><a href="https://bnbcloned.herokuapp.com/" target="_blank" rel="noreferrer noopener">AirBnB Clone</a></div>
   <div><a href="https://twitts-and-clones.herokuapp.com/" target="_blank" rel="noreferrer noopener">Twitter Clone</a></div>
   <div><a href="https://currency-xchange.herokuapp.com/" target="_blank" rel="noreferrer noopener">Curency Converter</a></div>
