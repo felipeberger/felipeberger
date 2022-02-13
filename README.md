@@ -24,7 +24,7 @@
   <ul>
     <li>
       <p>
-      👨🏻‍💻 I’m currently working on <a href="https://pyramid-application.herokuapp.com/" target="_blank" rel="noreferrer noopener"> building a tool that helps consultants and researchers structure their findings and insights</a>
+      👨🏻‍💻 I’m currently working on <a href="https://pyramid-application.herokuapp.com/" target="_blank" rel="noreferrer noopener"> building a tool that helps consultants and researchers quickly structure insights and arguments into simple storyboards</a>
       </p>
     </li>
     <li>
