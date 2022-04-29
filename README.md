@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-<h3 align="center">Full-stack developer, ex-consultant, passionate about using technology to solve social problems</h3>
+<h3 align="center">Full-stack engineer, ex-consultant, passionate about using technology to solve social problems</h3>
 <hr>
 <div>
   <h2>My Stack</h2>
@@ -32,7 +32,7 @@
     <li>
       <p>
       <img class="emoji" alt="seedling" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png" width="20" height="20"> 
-        I’m currently learning about <a href="https://khalilstemmler.com/articles/client-side-architecture/architecture/" target="_blank" rel="noreferrer noopener">client side architecture for React (MVP architecture)</a>
+        I’m currently learning about <a href="https://books.thoughtbot.com/books/testing-rails.html" target="_blank" rel="noreferrer noopener">modern testing practices</a>
       </p>
     </li>
     <li>
@@ -42,7 +42,7 @@
     </li>
     <li>
       <p>
-        :books: I’m currently reading <a href="https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf" target="_blank" rel="noreferrer noopener">Clean Code: A Handbook of Agile Software Craftsmanship</a>
+        :books: I’m currently reading <a href="https://www.poodr.com/" target="_blank" rel="noreferrer noopener">Practical Object-Oriented Design: An Agile Primer Using Ruby</a>
       </p>
     </li>
     <li>
